@@ -1,4 +1,9 @@
-                                                         
+To read this qr ascii you may need to stand further from the screen 
+
+
+
+
+
 ```                                                        
     █▀▀▀▀▀█ ███▀▀▄█▀██ ▄█▀█▀▀ ▄▀█   ██▄█▀ ▄▄█ █▀▀▀▀▀█    
     █ ███ █ ▀▄█ ▀▄    ▄▀▄ ▄▄█▄ ▀▄██ ▀█▀█▄▄ █▀ █ ███ █    
